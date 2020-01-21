@@ -37,6 +37,6 @@
 
 ## Additional Guides
 
-[Guide 1](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-preformatted-code-blocks)
+[Guide 1](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
 
 [Guide 2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
