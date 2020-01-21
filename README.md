@@ -1,5 +1,12 @@
 # md-terminal-cheatsheet-pair-programming
 
+[Terminal Commands](#terminal-commands)
+
+[Git Commands](#git-commands)
+
+[Additional Guides](#additional-guides)
+## Terminal Commands
+
 | Command | Description | Argument | <-flag->|
 | :--------| :-----------: | :-------- | :---: |  
 | **man** | manual pages for various commands full description on usage of bash programs | any command | |
@@ -17,6 +24,8 @@
 <br>
 <br>
 
+## Git Commands
+
 | git Commands | Description |
 |:---| :---|
 |**git add**| adds revisions to rep|
@@ -26,8 +35,8 @@
 **git status**| shows changes to be committed|
 **git log**| shows git log|
 
-Did this help you?
-<form>
-    <input type="radio" name="option" value="Yes" checked>Yes, Thank you<br><br>
-    <input type="radio" name="option" value="No">No, This did not help<br>
-<input type="button" onclick="alert('You Lie')" value="Enter">
+## Additional Guides
+
+[Guide 1](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-preformatted-code-blocks)
+
+[Guide 2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
