@@ -15,11 +15,14 @@
 | Git Commands | Description |
 |---| ---|
 |Git ADD| adds revisions to rep|
+|Git Commit| records changes to repo|
+|Git Push| upload local repo to remote repo|
+Git Pull| download and integrate with another repo|
+Git Status| shows changes to be committed|
+Git log| shows git log|
 
 Did this help you?
 <form>
-    <input type="radio" name="option" value="Yes" checked>Yes, Thank you<br>
-    <input type="radio" name="option" value="No">No, this didn't help<br>
-    <input type="radio" name="option" value="I' Screwed">I'm Screwed
-</form>
-<input type="button" onclick="alert('Hello World!')" value="Click Me!">
+    <input type="radio" name="option" value="Yes" checked>Yes, Thank you<br><br>
+    <input type="radio" name="option" value="No">No, This did not help<br>
+<input type="button" onclick="alert('You Lie')" value="Enter">
